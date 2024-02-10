@@ -1,0 +1,4 @@
+.idea/
+
+# Don't include the executable
+client_server
